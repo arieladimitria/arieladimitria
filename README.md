@@ -28,7 +28,6 @@ I'm Ariela Dimitria, a graduated graphic designer currently living in Brazil.
 
 <h3>Things I am Learning </h3>
 
-<br>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
@@ -36,19 +35,12 @@ I'm Ariela Dimitria, a graduated graphic designer currently living in Brazil.
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/python.png" width="30px"></span>
 
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arieladimitria&show_icons=true&theme=swift)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arieladimitria&layout=compact)](https://github.com/arieladimitria/github-readme-stats)
 
 
-<h3>My Wonderful Stats</h3>
 
-```json
-{
-  "joined": "1 month ago",
-  "repos": "0",
-  "repos_contributed_to": "0",
-  "commits": "0",
-  "stars": "0",
-  "issues": "0",
-  "pull_requests": "0"
-}
-```
 
