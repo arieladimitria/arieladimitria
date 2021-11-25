@@ -6,7 +6,7 @@ I'm Ariela Dimitria, a graduated graphic designer currently living in Brazil.
  - 🌱 I'm currently learning Java, React, Redux, Node.JS, SQL, Express.JS & Phyton
  - 💬 Ask me about <strong>shoujos, k-pop girl groups, Japan travel tips, HTML & CSS & Interior Design.</strong>
  - 📫 How to reach me: [@arieladimitria](https://www.instagram.com/arieladimitria/) on Instagram or [Discord](https://discord.com/users/912707409087176706)
- - ⚡ Fun fact: I have a [YouTube Channel](https://www.youtube.com/channel/UCfevDDwd_ueZZs1uESOAAhw) where I show a little of my life (vlogs, asian products unboxings, travels vlogs, diet recipes & more). 
+ - ⚡ Fun fact: I have a [YouTube Channel](https://www.youtube.com/channel/UCfevDDwd_ueZZs1uESOAAhw) where I show a little of my life (vlogs, asian unboxings, travel vlogs, diet recipes & more). 
 
 <h3 id="social">Contact Me</h3>
 
