@@ -14,7 +14,7 @@ jobs:
     - name: Update README.md stats
       uses: teoxoy/profile-readme-stats@v1
       with:
-        token: ${{ secrets.USER_TOKEN }}
+        token: ${{ secrets.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 }}
     - name: Update README.md with latest stats
       run: |
         if [[ "$(git status --porcelain)" != "" ]]; then
