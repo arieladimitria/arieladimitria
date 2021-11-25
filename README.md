@@ -1,31 +1,22 @@
 
-<h1>hi human! :wave:</h1>
+<h1>Hello World! :wave:</h1>
 
-<h3>who am i?</h3>
+I'm Ariela Dimitria, a graduated graphic designer currently living in Brazil.
 
-<img src="https://raw.githubusercontent.com/khalby786/khalby786/master/GitHub%20header.png">
+ - 🌱 I'm currently learning Java, React, Redux, Node.JS, SQL, Express.JS & Phyton
+ - 💬 Ask me about shoujos, k-pop girl groups, Japan travel tips, HTML & CSS & Interior Design.
+ - 📫 How to reach me: [@arieladimitria](https://www.instagram.com/arieladimitria/) on Instagram or [Discord](https://discord.com/users/912707409087176706)
+ - ⚡ Fun fact: I have a [YouTube Channel](https://www.youtube.com/channel/UCfevDDwd_ueZZs1uESOAAhw) where I show a little of my life (vlogs, asian products unboxings, travels vlogs, diet recipes & more). 
 
- - 🔭 I'm currently working on a lot of [side](https://github.com/khalby786/MarkMe) [projects](https://github.com/khalby786/smallurll)!
- - 🌱 I'm currently learning React, Go, OpenGL and cybersecurity
- - 👯 I'm looking to collaborate on full stack web apps!
- - 🤔 I'm looking for help with Typescript and React
- - 💬 Ask me about Vue, 3D art (including voxel art), donuts and robots
- - 📫 How to reach me: [discord](https://discord.bio/p/khalby786) or [social](#social)
- - 😄 Pronouns: he/him
- - ⚡ Fun fact: I have a [tumblr blog](https://art.khaleelgibran.com) filled with my artwork!
+<h3 id="social">Contact Me</h3>
 
-<h3 id="social">contact me</h3>
+<a href="https://twitter.com/ari_dml"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
+<a href="https://www.instagram.com/arieladimitria/"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
+<a href="https://www.youtube.com/channel/UCfevDDwd_ueZZs1uESOAAhw"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/youtube.svg" width="30px" /></a>
+<a href="https://www.linkedin.com/in/ariela-dimitria/"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/linkedin.svg" width="30px" /></a>
+<a href="mailto:arieladimitria@icloud.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
 
-<a href="//github.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" width="30px" style="width: 30px;margin-right: 10px;" /></a>
-<a href="//glitch.com/@khalby786"><img src="https://khaleelgibran.com/GlitchIcon_Solid_Black.png" width="30px" /></a>
-<a href="//twitter.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitter-alt.svg" width="30px" /></a>
-<a href="//instagram.com/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/instagram.svg" width="30px" /></a>
-<a href="//twitch.tv/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/twitch.svg" width="30px" /></a>
-<a href="https://www.youtube.com/channel/UCrpLyU8D2wajlTae6qZx_eQ"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/youtube.svg" width="30px" /></a>
-<a href="//codepen.io/khalby786"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/codepen.svg" width="30px" /></a>
-<a href="mailto:hello@khaleelgibran.com"><img src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" width="30px" /></a>
-
-<h3>things i code with</h3>
+<h3>Things I Code With</h3>
 
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
@@ -33,90 +24,31 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
 
 
-<h3>things i am learning </h3>
+<h3>Things I am Learning </h3>
 
 <br>
 
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30px"></span>
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!PNG/python.png" width="30px"></span>
 
-<h3>open source projects</h3>
 
 
-| Project  🚧 | Stars :star: | Forks 🍴 | Issues ❌ | Pull Requests 🌿 |
-|---------|-------|-------|--------|---------------|
-| Jsoning | ![GitHub stars](https://img.shields.io/github/stars/khalby786/jsoning?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/jsoning?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/jsoning?style=for-the-badge) |
-| MarkMe | ![GitHub stars](https://img.shields.io/github/stars/khalby786/markme?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/markme?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/markme?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/markme?style=for-the-badge) |
-| GlitchyPastePen | ![GitHub stars](https://img.shields.io/github/stars/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/GlitchyPastePen?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/GlitchyPastePen?style=for-the-badge) |
-| REHeader | ![GitHub stars](https://img.shields.io/github/stars/khalby786/REHeader?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/jsoning?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/REHeader?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/REHeader?style=for-the-badge) |
-| personal-website | ![GitHub stars](https://img.shields.io/github/stars/khalby786/personal-website?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/personal-website?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/personal-website?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/personal-website?style=for-the-badge) |
-| vue-utterances | ![GitHub stars](https://img.shields.io/github/stars/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Forks](https://img.shields.io/github/forks/khalby786/vue-utterances?style=for-the-badge) | ![GitHub Issues](https://img.shields.io/github/issues/khalby786/vue-utterances?style=for-the-badge) | ![GitHub PRs](https://img.shields.io/github/issues-pr/khalby786/vue-utterances?style=for-the-badge) |
-
-<h3>my latest blog posts</h3>
-
-<!--START_SECTION:feed-->
-* [a rectangular image generator has more stars on github than a complicated corruption-less data storing npm package, and i&#39;m embarrassed about it](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;reheader-has-more-stars-than-jsoning&#x2F;)
-* [I rickrolled the Director of Community Engineering at Glitch - twice](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;i-rickrolled-jenn-schiffer&#x2F;)
-* [The Story of My Life (Literally)](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;the-story-of-my-life&#x2F;)
-* [My First VFX Shot in Blender!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;my-first-vfx-shot-blender&#x2F;)
-* [Generated Static Projects on Glitch!](https:&#x2F;&#x2F;blog.khaleelgibran.com&#x2F;posts&#x2F;generated-static-glitch&#x2F;)
-<!--END_SECTION:feed-->
-
-<h3>my dev.to posts</h3>
-
-<!-- BLOG-POST-LIST:START -->
-- [My Favourite Web Development Tools!](https://dev.to/khalby786/my-favourite-web-development-tools-16af)
-- [Create a custom 404 page for your Vue 2 app](https://dev.to/khalby786/create-a-custom-404-page-for-your-vue-app-1d0a)
-- [REHeader - GitHub Profile README Header Image Generator](https://dev.to/khalby786/reheader-github-profile-readme-header-image-generator-45pe)
-- [Jsoning - A simple key-value JSON-based persistent lightweight database.✨](https://dev.to/khalby786/jsoning-a-simple-key-value-json-based-persistent-lightweight-database-51c0)
-- [Creating a Markdown Blog with EJS &amp; Express](https://dev.to/khalby786/creating-a-markdown-blog-with-ejs-express-j40)
-<!-- BLOG-POST-LIST:END -->
-
-<h3>my github activity</h3>
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/khalby786/blog/pull/3) in [khalby786/blog](https://github.com/khalby786/blog)
-2. 💪 Opened PR [#385](https://github.com/lucasgdb/useful-dev-tools/pull/385) in [lucasgdb/useful-dev-tools](https://github.com/lucasgdb/useful-dev-tools)
-3. 💪 Opened PR [#1](https://github.com/khalby786/don8t/pull/1) in [khalby786/don8t](https://github.com/khalby786/don8t)
-4. 🗣 Commented on [#23](https://github.com/khalby786/jsoning/issues/23) in [khalby786/jsoning](https://github.com/khalby786/jsoning)
-5. 🗣 Commented on [#22](https://github.com/wh0/snail-cli/issues/22) in [wh0/snail-cli](https://github.com/wh0/snail-cli)
-<!--END_SECTION:activity-->
-
-and here's a graph for people who like graphs: 
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=khalby786&theme=github)
-
-<h3>my wonderful stats</h3>
+<h3>My Wonderful Stats</h3>
 
 ```json
 {
-  "joined": "3 years ago",
-  "repos": "56",
-  "repos_contributed_to": "22",
-  "commits": "1732",
-  "stars": "327",
-  "issues": "21",
-  "pull_requests": "132"
+  "joined": "1 month ago",
+  "repos": "0",
+  "repos_contributed_to": "0",
+  "commits": "0",
+  "stars": "0",
+  "issues": "0",
+  "pull_requests": "0"
 }
 ```
 
-<h3>my weekly development breakdown</h3>
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   2 hrs 18 mins   ███████████████████████▒░   93.95 % 
-Bash         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-```
-<!--END_SECTION:waka-->
-
-<br><br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khalby786&column=7&theme=onedark" />
-</div>
